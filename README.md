@@ -2,6 +2,8 @@
 This repository outlines the approaches adopted to solve the challenges in a CTF-format assignment as part of the NUS module CS2107.
 
 
+##Solve Techniques
+
 The techniques used for the solves (Medium difficulty and above) are summarised as follows:
 
 M1: Deriving Substitution Cipher
