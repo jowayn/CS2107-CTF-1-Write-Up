@@ -17,4 +17,4 @@ H1: OSINT Exploits
 H2: Exploiting Fast-Encrypt using Time-Space Tradeoff by means of Rainbow Table
 
 
-Many of these techniques are applicable for other similar challenges under a different guise.
+Many of these techniques are applicable in similar challenges under a different guise.
